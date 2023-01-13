@@ -3,6 +3,7 @@ Proyek ini merupakan tugas akhir mata kuliah Desain Pemrograman Web Universitas 
 toko online yang menjual berbagai produk fashion.
 
 Website ini dibuat oleh:
+
 Nama Anggota 1/NPM: Arfan Prihardiansyah/1402021008
 
 Nama Anggota 2/NPM: Bayu Mahesa/1402021014
